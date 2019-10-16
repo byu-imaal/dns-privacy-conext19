@@ -1,7 +1,7 @@
 #### Purpose
 This repository provides source code for the 
-"DNS Privacy in Practice and Preparation" accepted at CoNEXT'19 meant
-to aid reproducibility of the study.
+"DNS Privacy in Practice and Preparation" accepted at CoNEXT'19 and is 
+meant to aid reproducibility of the study.
 
 #### Code
 All code was written for `python3`.
